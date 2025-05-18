@@ -1,0 +1,98 @@
+body{line-height:1.6;font-size:18px;color:#444;padding:30px; background-color:white}
+
+
+
+
+
+h1,h2,h3{line-height:1.2; font-weight:400; font-family: serif}
+ P,li,a {font-family: "EB Garamond", serif}
+
+h1 {font-size:50px}
+
+p,ol,ul {font-size:19px;font-family: Serif; max-width:700px; font-size:21px}
+
+
+
+Nav:first {border-top: 0px }
+Figcaption {font-size:16px;font-family: "EB Garamond"}
+
+
+
+H3,h1 {font-size:27px; font-family: "EB Garamond", serif}
+
+Img {max-width:100%}
+
+.flex-container {
+   max-width:1200px; display:flex
+
+}
+
+.left {margin-right:50px; min-width:20%; max-width:250px; margin-top:0px}
+
+h1 {font-size:40px; padding-top:0px; margin-top:0px}
+
+Hr {border: 1px solid #646464; margin-top:20px}
+.feature {margin-bottom:50px}
+
+.gallery img {height:60px}
+
+.home {text-decoration:none;}
+
+.home:visited {color:black}
+
+Figure {margin:0px}
+
+
+
+.home {border-top: 0px}
+
+
+
+
+table {font-family: Monospace; text-align:center; font-size:14px}
+
+td {padding:3px}
+
+
+
+
+p,ol,ul,li,nav a {
+
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+ nav {margin-bottom:40px}
+
+p,ol,ul,li,nav a,a {
+  font-family: Helvetica,sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+p,ol,ul {max-width:700px; font-size:20px; line-height:1.6}
+
+H3,h1 {font-size:27px; font-family: Helvetica, sans-serif}
+
+h1 {font-size:35px}
+
+.container {display:flex}
+
+@media only screen and (max-width: 660px) {
+  .container {display:initial}
+.left {width:100%}
+
+}
+
+
+p,ol, li, a, tr, th,h1,h3 {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.left ol {list-style:none}
+
