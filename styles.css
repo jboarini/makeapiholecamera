@@ -9,7 +9,7 @@ h1,h2,h3{line-height:1.2; font-weight:400; font-family: serif}
 
 h1 {font-size:50px}
 
-p,ol,ul {font-size:19px;font-family: Serif; max-width:700px; font-size:21px}
+p,ol,ul {font-size:19px;font-family: Serif;font-size:21px}
 
 
 
@@ -29,12 +29,14 @@ Img {max-width:100%}
 
 .left {margin-right:50px; min-width:20%; max-width:250px; margin-top:0px}
 
-h1 {font-size:40px; padding-top:0px; margin-top:0px}
+h1 {font-size:45px; padding-top:0px; margin-top:0px}
 
 Hr {border: 1px solid #646464; margin-top:20px}
 .feature {margin-bottom:50px}
 
-.gallery img {height:60px}
+
+
+
 
 .home {text-decoration:none;}
 
@@ -62,7 +64,7 @@ p,ol,ul,li,nav a {
   font-weight: <weight>;
   font-style: normal;
 }
- nav {margin-bottom:40px}
+
 
 p,ol,ul,li,nav a,a {
   font-family: Helvetica,sans-serif;
@@ -70,7 +72,7 @@ p,ol,ul,li,nav a,a {
   font-style: normal;
 }
 
-p,ol,ul {max-width:700px; font-size:20px; line-height:1.6}
+p,ol,ul { font-size:20px; line-height:1.6}
 
 H3,h1 {font-size:27px; font-family: Helvetica, sans-serif}
 
@@ -81,18 +83,74 @@ h1 {font-size:35px}
 @media only screen and (max-width: 660px) {
   .container {display:initial}
 .left {width:100%}
+ol a {margin:0px}
 
 }
 
 
-p,ol, li, a, tr, th,h1,h3 {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
+
 
 .left ol {list-style:none}
 
+p {font-family:monospace; font-size:15px}
+
+ol.nav a {display:block; width:100%; font-family: Arial, Sans Serif; font-size:17px;  padding:7px}
+
+h1 { line-height:0.8; font-family:monospace}
+
+@media only screen and (max-width: 660px) {
+  .container {display:initial}
+
+.nav  a {padding:0px; width:100%}
+
+.left {margin:0px; padding:0px}
+
+}
+
+li {font-family:monospace; font-size:15px}
+
+
+
+.nav {width:100%; padding:0px; margin-top:-10px}
+
+p {max-width:700px}
+
+a {font-family: "Courier Prime", monospace;}
+
+p {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,h2,h3,h4,h5,a {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;letter-spacing:-0.5px;
+}
+
+.courier-prime-regular-italic {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.courier-prime-bold-italic {
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+ 
+p,li {font-size:19px; letter-spacing:0px}
+
+p,h1,h2,h3,h4,h5,a,li {font-family: Serif; letter-spacing:0px}
+
+h1 {font-size:45px}
+
+ol {max-width:700px}
+
+h1,h2,h3,h4,h5, {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;letter-spacing:-0.5px;
+}
