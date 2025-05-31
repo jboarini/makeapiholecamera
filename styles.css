@@ -19,7 +19,7 @@ Nav:first {border-top: 0px }
 
 
 
-Img {max-width:100%}
+img {max-width:100%}
 
 .flex-container {
    max-width:1200px; display:flex
@@ -75,7 +75,7 @@ p,ol,ul { font-size:20px; line-height:1.6}
 
 .container {display:flex}
 
-@media only screen and (max-width: 660px) {
+@media only screen and (max-width: 394px) {
   .container {display:initial}
 .left {width:100%}
 ol a {margin:0px}
