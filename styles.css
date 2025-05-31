@@ -76,9 +76,7 @@ p,ol,ul { font-size:20px; line-height:1.6}
 .container {display:flex}
 
 @media only screen and (max-width: 394px) {
-  .container {display:initial}
-.left {width:100%}
-ol a {margin:0px}
+
 
 }
 
@@ -90,20 +88,6 @@ ol a {margin:0px}
 
 
 ol.nav a {display:block; width:100%; font-family: Arial, Sans Serif; font-size:17px;  padding:7px}
-
-
-
-@media only screen and (max-width: 394px) {
-  .container {display:initial}
-
-.nav  a {padding:0px; width:100%}
-
-.left {margin:0px; padding:0px}
-
- 
-
-}
-
 
 
 
@@ -131,3 +115,15 @@ ol {max-width:700px}
 img {max-width:100%}
 
 h3 {font-weight:900; }
+
+@media only screen and (max-width: 394px) {
+  .container {display:initial}
+.nav  a {padding:0px; width:100%}
+.left {margin:0px; padding:0px}
+
+.left {width:100%}
+ol a {margin:0px}
+ 
+
+}
+
