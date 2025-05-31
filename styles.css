@@ -4,8 +4,7 @@ body{line-height:1.6;font-size:18px;color:#444;padding:30px; background-color:wh
 
 
 
-h1,h2,h3{ font-family: serif}
- P,li,a {font-family: "EB Garamond", serif}
+
 
 
 
@@ -29,7 +28,7 @@ Img {max-width:100%}
 
 .left {margin-right:50px; min-width:20%; max-width:250px; margin-top:0px}
 
-h1 {font-size:50px; padding-top:0px; margin-top:0px}
+h1 {padding-top:0px; margin-top:0px}
 
 Hr {border: 1px solid #646464; margin-top:20px}
 .feature {margin-bottom:50px}
@@ -141,9 +140,9 @@ p {
  
 p,li {font-size:19px; letter-spacing:0px}
 
-p,h1,h2,h3,h4,h5,a,li {font-family: Serif; letter-spacing:0px}
 
-h1 {font-size:45px}
+
+
 
 ol {max-width:700px}
 
