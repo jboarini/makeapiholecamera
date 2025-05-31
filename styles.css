@@ -7,7 +7,7 @@ body{line-height:1.6;font-size:18px;color:#444;padding:30px; background-color:wh
 h1,h2,h3{ font-family: serif}
  P,li,a {font-family: "EB Garamond", serif}
 
-h1 {font-size:50px}
+
 
 p,ol,ul {font-size:19px;font-family: Serif;font-size:21px}
 
@@ -29,7 +29,7 @@ Img {max-width:100%}
 
 .left {margin-right:50px; min-width:20%; max-width:250px; margin-top:0px}
 
-h1 {font-size:45px; padding-top:0px; margin-top:0px}
+h1 {font-size:50px; padding-top:0px; margin-top:0px}
 
 Hr {border: 1px solid #646464; margin-top:20px}
 .feature {margin-bottom:50px}
@@ -76,7 +76,7 @@ p,ol,ul { font-size:20px; line-height:1.6}
 
 
 
-h1 {font-size:35px}
+
 
 .container {display:flex}
 
@@ -96,7 +96,7 @@ p {font-family:monospace; font-size:15px}
 
 ol.nav a {display:block; width:100%; font-family: Arial, Sans Serif; font-size:17px;  padding:7px}
 
-h1 { line-height:0.8; font-family:monospace}
+
 
 @media only screen and (max-width: 360px) {
   .container {display:initial}
@@ -105,7 +105,7 @@ h1 { line-height:0.8; font-family:monospace}
 
 .left {margin:0px; padding:0px}
 
- h1 {line-height:1.6}
+ 
 
 }
 
