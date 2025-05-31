@@ -93,7 +93,7 @@ ol.nav a {display:block; width:100%; font-family: Arial, Sans Serif; font-size:1
 
 
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 394px) {
   .container {display:initial}
 
 .nav  a {padding:0px; width:100%}
