@@ -2,12 +2,9 @@ body{line-height:1.6;color:#444; background-color:white}
 
 img {max-width:100%}
 
-.flex-container {
-   max-width:1200px; margin:auto;
 
-}
 
-.left {margin-right:30px}
+.left {display:block;margin-right:30px; min-width:300px;}
 
 h1 {padding-top:0px; margin-top:0px; font-size:40px}
 
@@ -20,7 +17,7 @@ Hr {border: 1px solid #646464; margin-top:20px}
 
 .home {text-decoration:none;}
 
-.home:visited {color:black}
+
 
 Figure {margin:0px}
 
@@ -54,7 +51,7 @@ p,ol,ul { font-size:21px; line-height:1.6}
 
 
 
-.container {display:flex}
+.container {max-width:1000px; margin:auto}
 
 
 
@@ -90,17 +87,20 @@ ol {max-width:700px}
 
 
 
-img {max-width:100%}
+
 
 h3 {font-weight:900; font-size:30px }
 
-@media only screen and (max-width: 400px) {
-  .container {display:initial; width:100%}
+@media screen and (max-width: 500px) {
+  .container {display:initial; width:100%; }
 .nav  a {padding:0px; width:100%}
 .left {margin:0px; width:100%;padding:0px}
 
 ol a {margin:0px}
  
 
+
+
 }
 
+img {max-width:100%}
