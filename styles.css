@@ -1,17 +1,5 @@
 body{line-height:1.6;color:#444;padding:30px; background-color:white}
 
-
-
-
-
-
-
-
-
-
-
-
-
 Nav:first {border-top: 0px }
 
 
@@ -75,13 +63,7 @@ p,ol,ul { font-size:21px; line-height:1.6}
 
 .container {display:flex}
 
-@media only screen and (max-width: 394px) {
 
-.flex-container {
-   display:initial
-
-}
-}
 
 
 
@@ -120,7 +102,7 @@ img {max-width:100%}
 h3 {font-weight:900; font-size:30px }
 
 @media only screen and (max-width: 394px) {
-  .container {display:initial}
+  .container {display:initial; width:100%}
 .nav  a {padding:0px; width:100%}
 .left {margin:0px; padding:0px}
 
