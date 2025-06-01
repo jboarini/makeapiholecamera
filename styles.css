@@ -101,12 +101,12 @@ img {max-width:100%}
 
 h3 {font-weight:900; font-size:30px }
 
-@media only screen and (max-width: 394px) {
+@media only screen and (max-width: 400px) {
   .container {display:initial; width:100%}
 .nav  a {padding:0px; width:100%}
 .left {margin:0px; padding:0px}
 
-.left {width:100%}
+.left {width:100%; margin:0px}
 ol a {margin:0px}
  
 
