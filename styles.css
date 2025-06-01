@@ -82,8 +82,9 @@ img {max-width:100%}
 table  {
   font-family: "Times New Roman", Times, serif;
   border: 3px solid #000000;
-  text-align: left;
+  text-align: center;
   border-collapse: collapse;
+  font-size:21px;
 }
 table  td, table  th {
   border: 1px solid #000000;
