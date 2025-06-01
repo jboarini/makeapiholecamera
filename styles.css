@@ -35,19 +35,14 @@ td {padding:3px}
 
 
 
-p,ol,ul,li,nav a {
 
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
 
 
 
 
 p,ol,ul { font-size:21px; line-height:1.6}
 
-
+figcaption {font-size:21px, font-style:italic}
 
 
 
