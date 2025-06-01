@@ -6,7 +6,7 @@ img {max-width:100%}
 
 .left {display:block;margin-right:30px; min-width:300px;}
 
-h1 {padding-top:0px; margin-top:0px; font-size:40px}
+h1 {padding-top:0px; margin-top:0px; font-size:40px;line-height:1.2}
 
 Hr {border: 1px solid #646464; margin-top:20px}
 .feature {margin-bottom:50px}
