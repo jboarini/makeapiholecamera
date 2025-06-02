@@ -115,3 +115,19 @@ table  tfoot {
 table  tfoot td {
   font-size: 21px;
 }
+
+p,a,li {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size:19px
+}
+
+h1,h3 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+ 
+}
