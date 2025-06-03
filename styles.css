@@ -6,7 +6,7 @@ img {max-width:100%}
 
 .left {display:block;margin-right:30px; min-width:300px;}
 
-h1 {padding-top:0px; margin-top:0px; font-size:46px;line-height:1.2;}
+h1 {padding-top:0px; margin-top:0px; font-size:46px;line-height:1.1;}
 
 Hr {border: 1px solid #646464; margin-top:20px}
 .feature {margin-bottom:50px}
@@ -62,7 +62,7 @@ ol.nav a {  font-family: Arial, Sans Serif; font-size:21px;  padding:0px}
 
 
 
-h3 {font-weight:900; font-size:30px }
+h3 {font-weight:900; font-size:30px; line-height:1.1 }
 
 @media screen and (max-width: 500px) {
   .container {display:initial; width:100%; }
@@ -73,6 +73,7 @@ h3 {font-weight:900; font-size:30px }
   ol.nav a {font-size:50px}
  
 h1 {font-size:47px; font-weight:900}
+  h3 {line-height:1}
 
 
 }
