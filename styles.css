@@ -62,7 +62,7 @@ ol.nav a {  font-family: Arial, Sans Serif; font-size:21px;  padding:0px}
 
 
 
-h3 {font-weight:900; font-size:30px; line-height:1.1 }
+
 
 @media screen and (max-width: 500px) {
   .container {display:initial; width:100%; }
@@ -73,7 +73,7 @@ h3 {font-weight:900; font-size:30px; line-height:1.1 }
   ol.nav a {font-size:50px}
  
 h1 {font-size:47px; font-weight:900}
-  h3 {line-height:1}
+h3 {font-weight:900; font-size:30px; line-height:1.1 }
 
 
 }
