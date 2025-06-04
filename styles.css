@@ -80,7 +80,7 @@ h1 {font-size:47px; font-weight:900}
 img {max-width:100%}
 
 
-p,a,li {
+p,a,li,table {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
