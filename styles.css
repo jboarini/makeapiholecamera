@@ -40,7 +40,7 @@ h1 {line-height:1.2}
 
 
 
-p,ol,ul { font-size:21px; line-height:1.4}
+p,ol,ul { font-size:21px; line-height:1.4; max-width:700px}
 
 figcaption {font-size:18px; font-style:italic}
 
