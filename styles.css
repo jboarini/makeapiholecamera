@@ -71,7 +71,7 @@ figcaption {font-size:18px; font-style:italic}
 
 
  
-h1 {font-size:47px; font-weight:900}
+h1 {font-size:47px; font-weight:700}
 
 
 
@@ -83,21 +83,15 @@ img {max-width:100%}
 p,a,li,table {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+ 
   font-style: normal;
   font-size:19px
 }
 
-h1,h3 {
-  font-family: "Raleway", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
- 
-}
+
 
 h3 {font-size:29px}
 
-.nav a {font-weight:600}
+
 
 table {text-align:center}
