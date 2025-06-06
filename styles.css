@@ -2,7 +2,7 @@ body{line-height:1.4;color:#444; background-color:white}
 
 img {max-width:100%}
 
-h1,h3,p,a,li {font-family:Helvetica,Arial,Sans-Serif}
+h1,h3,p,a,li {font-family:Helvetica,Arial,Sans-Serif; font-weight:normal}
 
 .left {display:block;margin-right:30px; min-width:300px;}
 
