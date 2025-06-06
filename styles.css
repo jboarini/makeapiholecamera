@@ -6,7 +6,7 @@ img {max-width:100%}
 
 .left {display:block;margin-right:30px; min-width:300px;}
 
-h1 {padding-top:0px; margin-top:0px; font-size:40px;line-height:1.2; }
+h1 {padding-top:0px; margin-top:0px; font-size:32px;line-height:1.2; }
 
 Hr {border: 1px solid #646464; margin-top:20px}
 .feature {margin-bottom:50px}
@@ -42,9 +42,9 @@ h1 {line-height:1.2}
 
 
 
-p,ol,ul { font-size:21px; line-height:1.4; max-width:700px}
+p,ol,ul { font-size:17px; line-height:1.4; max-width:700px}
 
-figcaption {font-size:18px; font-style:italic}
+figcaption {font-size:15px; font-style:italic}
 
 
 
@@ -86,7 +86,7 @@ img {max-width:100%}
 
 
 
-h3 {font-size:26px; line-height:1.2}
+h3 {font-size:21px; line-height:1.2}
 
 h1,h3,p,a,li {font-family:Arial,Sans-Serif; }
 
