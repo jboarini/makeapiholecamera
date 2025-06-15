@@ -88,7 +88,7 @@ h1,h3 {color:black}
 
 h3 {font-size:21px; line-height:1.2}
 
-h1,h3,p,a,li,td,th  {
+h1,h3,p,a,li,td,th,table  {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
