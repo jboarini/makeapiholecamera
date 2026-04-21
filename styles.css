@@ -100,9 +100,9 @@ th, td {
 p {
   font-family: "Public Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight:100;
+  font-weight:200;
   font-style: normal;
-  font-size:14px;
+  font-size:16px;
 }
 
 h1,h2,h3,h4,h5 {font-family:"Times New Roman",Serif; font-weight:100}
