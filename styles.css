@@ -103,3 +103,10 @@ table {text-align:center}
 th, td {
   padding: 15px;
 }
+
+.public-sans-<uniquifier> {
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
